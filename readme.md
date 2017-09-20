@@ -5,9 +5,9 @@
 
 ## Usage
 
-Install `yo`, `grunt-cli`, and `generator-expressjs-api`:
+Install `yo`, `grunt-cli`, and `expressjs-api`:
 ```
-npm install -g yo grunt-cli generator-expressjs-api
+npm install -g yo grunt-cli expressjs-api
 ```
 
 Make a new directory, and `cd` into it:
