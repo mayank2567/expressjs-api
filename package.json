@@ -1,6 +1,6 @@
 {
-  "name": "generator-expressjs-api",
-  "version": "0.0.1",
+  "name": "expressjs-api",
+  "version": "0.0.2",
   "description": "Yeoman generator for creating Web APIs using MongoDB/Sequelize (MySQL, Postgres, etc), Express, and Node",
   "keywords": [
     "yeoman-generator",
@@ -13,14 +13,12 @@
     "app",
     "api"
   ],
-  "homepage": "https://github.com/ioneyed/generator-expressjs-api",
-  "bugs": "https://github.com/ioneyed/generator-expressjs-api/issues",
-  "author": "Robert Buchanan (http://ioneyed.com/)",
+  "author": "Mayank Chandel",
   "contributors": [
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/ioneyed/generator-expressjs-api.git"
+    "url": "git@github.com:mayank2567/expressjs-api.git"
   },
   "scripts": {
     "test": "grunt test"
