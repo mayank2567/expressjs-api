@@ -7,7 +7,8 @@
 
 Install `yo`, `grunt-cli`, and `expressjs-api`:
 ```
-npm install -g yo grunt-cli expressjs-api
+npm install -g yo grunt-cli generator-expressjs-api
+
 ```
 
 Make a new directory, and `cd` into it:
