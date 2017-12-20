@@ -1,6 +1,6 @@
 {
   "name": "expressjs-api",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Yeoman generator for creating Web APIs using MongoDB/Sequelize (MySQL, Postgres, etc), Express, and Node",
   "keywords": [
     "yeoman-generator",
