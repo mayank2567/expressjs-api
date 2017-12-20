@@ -7,7 +7,7 @@
 
 Install `yo`, `grunt-cli`, and `expressjs-api`:
 ```
-npm install -g yo grunt-cli expressjs-api
+npm install -g yo grunt-cli expressjs-api generator-expressjs-api
 
 ```
 
